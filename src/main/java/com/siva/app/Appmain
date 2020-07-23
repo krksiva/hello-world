@@ -8,6 +8,6 @@ public class Appmain
 {
     public static void main( String[] args )
     {
-        System.out.println( "First Java Maven Build Program!" );
+        System.out.println( "First Java Maven Build Program from develop branch using PR request!" );
     }
 }
