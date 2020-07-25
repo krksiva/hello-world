@@ -71,5 +71,12 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <distributionManagement>
+        <repository>
+          <id>github</id>
+          <name>GitHub OWNER Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/krksiva/pkg-siva</url>
+        </repository>
+</distributionManagement>
   </build>
 </project>
